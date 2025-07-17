@@ -73,7 +73,7 @@ This project analyzes the **McDonald's Menu Dataset** using powerful **EDA techn
 
 ```bash
 # Step 1: Clone this repository
-git clone https://github.com/yourusername/mcdonalds-menu-analysis.git
+git clone https://github.com/safalswayam/mcdonalds-menu-analysis.git
 cd mcdonalds-menu-analysis
 
 # Step 2: Install the dependencies
